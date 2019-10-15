@@ -16,7 +16,7 @@
     "composer-client": "^0.20.0",
     "composer-common": "^0.20.0",
     "composer-connector-embedded": "^0.20.0",
-    "csv-parse": "^2.4.0",
+    "csv-parse": "^4.4.6",
     "istanbul": "latest",
     "mocha": "^5.1.1",
     "nock": "^9.2.5",
