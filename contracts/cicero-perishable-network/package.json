@@ -10,7 +10,7 @@
   "email": "code@accordproject.org",
   "license": "Apache-2.0",
   "devDependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "chai": "latest",
     "composer-admin": "^0.20.0",
     "composer-client": "^0.20.0",
